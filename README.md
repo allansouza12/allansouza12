@@ -1,4 +1,4 @@
-### Olá! Sou o Allan Souza 👋🏻 
+### Hi! I'm Allan Souza 👋🏻 
 
 ## About me:
 I am a software development student who has been connected to technology since I was 8 years old,studying programming diligently every day, focusing on becoming an excellent software developer.
@@ -22,7 +22,7 @@ I am a software development student who has been connected to technology since I
 
 ![Allan GitHub stats](https://github-readme-stats.vercel.app/api?username=allansouza12&show_icons=true&theme=dracula)
 
-## Tecnologias que uso no meu dia
+## Technologies I use daily
 
 <div style = "display: inline_block"><br/>
     <img align = "center" alt="python" src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
